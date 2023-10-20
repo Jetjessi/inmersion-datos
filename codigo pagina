@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="style.css">
+    <title>JESSI AUTOPARTES</title>
+</head>
+<body>
+    <Header>
+        <div>
+            <img src="./IMAGENES/Logo_fondo.png" alt="LOGO"> <img src="./IMAGENES/PORTADA.jpg" alt="Portada">
+        </div>
+        <nav>
+            <ul>
+                <a href="#NOSOTROS">
+                    <li>NOSOTROS</li>
+                </a>
+                <a href="#CATALOGO">
+                    <li>CATALOGO</li>
+                </a>
+                <a href="PEDIDO EN LINEA">
+                    <li>PEDIDO EN LINEA</li>
+                </a>
+
+            </ul>
+        </nav>
+    </Header>
+    
+    <main>
+        <div id="NOSOTROS">
+            <H1>NOSOTROS</H1>
+            <img src="./IMAGENES/Motor inicio.png" alt="NOSOTROS">
+            <h2>Somos una empresa que busca la calidad, servicio y eficacia para ti y tú vehiculo</h2>
+        </div>
+            <div id="CATALOGO">
+                <H1>CATALOGO</H1>
+                <img src="./IMAGENES/¡anticongelanres.jpeg" alt="Anticongelante"><img src="./IMAGENES/Aditivo limpiador  png.png" alt="">
+            </div>
+    </main>
+</body>
+</html>
